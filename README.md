@@ -54,5 +54,9 @@ Dashboard_Backend/
 ## Run the project
 
 ```
-nodemon index.js or node index.js
+nodemon index.js
+
+OR
+
+node index.js
 ```
