@@ -1,6 +1,6 @@
 # Nodejs Backend for Dashboard
 
-This is a basic Node application that Express and MongoDB for database.
+This is a basic Node application that uses Express framework for Node.js and MongoDB Atlas is being used as database service.
 
 ### Tools Used
 
