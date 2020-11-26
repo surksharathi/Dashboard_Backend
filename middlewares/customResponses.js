@@ -12,8 +12,6 @@ const customResponses = {
             error: "unauthorized",
         } );
     },
-
-    
     unprocessableEntity( customError ) {
         return this.status( 422 ).json( {
             success: false,
